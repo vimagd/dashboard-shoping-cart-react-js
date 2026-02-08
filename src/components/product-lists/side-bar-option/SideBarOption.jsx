@@ -1,3 +1,4 @@
+/* eslint-disable array-callback-return */
 import React, { useState } from "react";
 import "./SideBarOption.scss";
 import xSVG from '../../../assets/svg/x.svg';
